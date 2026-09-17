@@ -242,4 +242,4 @@ This repository serves as the official landing page for SimCity. The software is
 **Get the most recent version of SimCity today!**
 
 ---
-**Last updated:** 2026-09-16 22:33:14 UTC
+**Last updated:** 2026-09-17 01:00:43 UTC
